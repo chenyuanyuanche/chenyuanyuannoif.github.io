@@ -1,0 +1,176 @@
+body{
+	font-size:14px;
+	font-family:微软雅黑;
+}
+.frame{
+	margin:0 auto;
+	width:397px;
+	height:409px;
+	border:1px #333399 solid;
+	font-size:14px;
+	font-family:微软雅黑;
+	background-color:#ede9f7;
+	position:relative;
+}
+.pian1{
+	position:absolute;
+	top:9px;
+	right:59px;
+}
+#pian2{
+	position:absolute;
+	top:9px;
+	right:0px;
+}
+.content{
+	margin:7px 27px 45px 27px;
+	
+}
+.tishi1{
+	
+	margin-top:39px;
+	font-size:20px;
+	font-weight:bold;
+}
+#txt1{
+	height:40px;
+	width:290px;
+    position:absolute;
+    top:0px;
+    right:0px;
+    color:#736f84;
+}
+#txt2{
+	height:40px;
+	width:290px;
+	position:absolute;
+	top:65px;
+	right:0px;
+}
+.biaodan{
+	margin-top:31px;
+	margin-right:0px;
+	width:340px;
+	height:118px;
+	position:relative;
+}
+.tupian1{
+	position:relative;
+	top:-2px;
+}
+.tupian2{
+	position:absolute;
+	top:63px;
+	left:0px;
+}
+.footer{
+	margin-top:86px;
+	width:340px;
+	position:relative;
+	height:15px;
+}
+
+.zuo1{
+	position:absolute;
+	left:0px;
+}
+.you1{
+	position:absolute;
+	right:0px;
+}
+.zuo1 a{
+	text-decoration:none;
+
+}
+.zuo1 a:link{
+    color:#736f84;
+}
+.zuo1 a:visited{
+	color:#736f84;
+}
+.zuo1 a:hover{
+	color:#ff4400;
+}
+
+
+.you1 a:link{
+	color:#736f84;
+}
+.you1 a:visited{
+	color:#736f84;
+}
+.you1 a:hover{
+	color:#ff4400;
+}
+
+
+.you1 a{
+	text-decoration:none;
+}
+#btn2{
+	position:relative;
+	top:-23px;
+	border:0;
+	left:-8px;
+	color:#736f84;
+}
+#footer1{
+	margin-top:16px;
+	width:340px;
+	height:48px;
+	background-color:#f40;;
+	filter:alpha(opacity:80);opacity:0.8;
+	text-align:center;
+
+
+}
+#sb{
+	width:340px;
+	height:48px;
+	background:#f40;
+	display:block;
+	border:0;
+	color:#fff;
+	font-weight:bold;
+	font-size:16px;
+}
+
+#zhuce{
+	text-decoration:none;
+	
+	color:#ffffff;
+	font-weight:bold;
+	font-size:16px;
+	width:340px;
+	height:48px;
+	background-color:#f52b00;
+	display:block;file:///D:/Program%20Files%20(x86)/Office14/%E9%82%AE%E7%AE%B1%E6%A0%A1%E9%AA%8C.html#
+	
+	filter:alpha(opacity:80);opacity:0.8;
+}
+.neirong1{
+	position:relative;
+	top:13px;
+}
+.footer2{
+	width:340px;
+	height:20px;
+	margin-top:27px;
+}
+.zuo3{
+	margin-left:25px;
+}
+.zuo4{
+	position:relative;
+	top:-3px;
+}
+.footer2 a{
+	text-decoration:none;
+
+}
+.footer a:link,a:visited{
+	color:#736f84;
+}
+.footer2 a:hover{
+	color:#ff4400;
+}
